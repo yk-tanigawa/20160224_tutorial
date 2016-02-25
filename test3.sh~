@@ -1,0 +1,3 @@
+echo "Hello"
+echo "Good Bye"
+echo $1
